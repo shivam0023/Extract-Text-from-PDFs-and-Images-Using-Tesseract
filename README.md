@@ -1,0 +1,1 @@
+# Extract-Text-from-PDFs-and-Images-Using-Tesseract
